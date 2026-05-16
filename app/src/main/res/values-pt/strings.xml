@@ -8,9 +8,9 @@
     <string name="yes">Sim</string>
     <string name="no">Não</string>
     <string name="song">Música: %1$s</string>
-    <string name="downloading_lyrics">Baixando letras</string>
+    <string name="downloading_lyrics">A descarregar letras</string>
     <string name="please_do_not_close_the_app_this_may_take_a_while">Por favor, não feche o aplicativo, isso pode demorar um pouco</string>
-    <string name="download_complete">Download completo</string>
+    <string name="download_complete">Descarga completa</string>
     <string name="success">Sucesso: %1$d</string>
     <string name="failed">Falha: %1$d</string>
     <string name="spotify_api_rate_limit_reached">Limite de taxa da API do Spotify atingido</string>
@@ -18,7 +18,7 @@
     <string name="save_lrc_file">Salvar arquivo .lrc</string>
     <string name="no_results">Sem resultados</string>
     <string name="no_internet_server">Nenhuma conexão com a Internet ou servidor está indisponível</string>
-    <string name="extra_what_is_songsync">Você também pode pesquisar músicas específicas para obter suas letras (E salvá-las em Downloads).</string>
+    <string name="extra_what_is_songsync">Também pode pesquisar músicas específicas para obter as suas letras (e gravá-las nas descargas).</string>
     <string name="app_version">Versão do aplicativo: %1$s</string>
     <string name="spotify_for_developers">Spotify para Desenvolvedores</string>
     <string name="about_songsync">Sobre o SongSync</string>
@@ -62,7 +62,7 @@
     <string name="update_available">Atualização disponível</string>
     <string name="changelog">Log de alterações:
 \n%1$s</string>
-    <string name="download">Baixado</string>
+    <string name="download">A descarregar</string>
     <string name="up_to_date">Você está usando a versão mais recente</string>
     <string name="close">Fechar</string>
     <string name="filters">Filtros</string>
@@ -79,19 +79,19 @@
     <string name="web_player_keys">API do Web Player</string>
     <string name="custom_keys">Credenciais de API personalizadas</string>
     <string name="change_api_strategy">Você também pode tentar maneiras alternativas para se conectar à rede Spotify nas configurações.</string>
-    <string name="batch_download_lyrics">Baixar várias letras ao mesmo tempo</string>
+    <string name="batch_download_lyrics">Descarregar várias letras ao mesmo tempo</string>
     <string name="progress">Progresso: %1$d/%2$d (%3$d%%)</string>
     <string name="success_failed">Sucesso: %1$d, Sem letras: %2$d, Falhou: %3$d</string>
     <string name="unknown">Desconhecido</string>
-    <string name="what_is_songsync">SongSync é um aplicativo que permite baixar letras sincronizadas (Arquivos .lrc) para sua Biblioteca de Música Local.</string>
+    <string name="what_is_songsync">SongSync é uma aplicação que permite descarregar letras sincronizadas (ficheiros .lrc) para a sua Biblioteca de Música Local.</string>
     <string name="bugs_or_suggestions_contact_us">Encontrou um bug\? Tem uma sugestão\? Quer contribuir\? Se sinta à vontade para entrar em contato comigo no meu grupo do Telegram.</string>
     <string name="developer">Desenvolvedores</string>
     <string name="requires_higher_storage_permissions">Este aplicativo requer acesso ao armazenamento para escanear sua Biblioteca de Músicas e salvar as letras.</string>
     <string name="if_connected_spotify_down">Se você estiver conectado, o Spotify pode estar indisponível. Por favor, tente novamente tarde.</string>
     <plurals name="this_will_download_lyrics_for_all_songs">
-        <item quantity="one">Isso fará o download da letra de uma música. As letras das músicas existentes serão substituídas por novas. Isso pode ser menos preciso do que baixar as letras uma a uma. Você tem certeza que quer continuar\?</item>
-        <item quantity="many">Isso fará o download das letras das músicas %1$d. As letras das músicas existentes serão substituídas por novas. Isso pode ser menos preciso do que baixar as letras uma a uma. Você tem certeza que quer continuar\?</item>
-        <item quantity="other"></item>
+        <item quantity="one">Isto descarregará a letra de uma música. As letras das músicas existentes serão substituídas por novas. Isso pode ser menos preciso do que descarregar as letras uma a uma. Tem certeza que quer continuar?</item>
+        <item quantity="many">Isto descarregará das letras das músicas %1$d. As letras das músicas existentes serão substituídas por novas. Isso pode ser menos preciso do que descarregar as letras uma a uma. Tem certeza que quer continuar?</item>
+        <item quantity="other">Isto descarregará das letras das músicas %1$d. As letras das músicas existentes serão substituídas por novas. Isso pode ser menos preciso do que descarregar as letras uma a uma. Tem certeza que quer continuar?</item>
     </plurals>
     <string name="error_checking_for_updates">Erro ao verificar atualizações</string>
     <string name="this_track_has_no_lyrics">Está faixa não contém letra</string>
@@ -168,4 +168,5 @@
         <item quantity="many">%1$d canções</item>
         <item quantity="other">%1$d canções</item>
     </plurals>
+    <string name="select_language">Selecione o Idioma</string>
 </resources>
