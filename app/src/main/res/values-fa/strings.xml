@@ -165,4 +165,5 @@
         <item quantity="one">%1$d آهنگ</item>
         <item quantity="other">%1$d آهنگ</item>
     </plurals>
+    <string name="select_language">زبان را انتخاب کنید</string>
 </resources>
